@@ -1,0 +1,9 @@
+selenium
+chromedriver  # do check the version of the chrome before downloading the chrome driver and after downloading the driver paste it in the same directory of the project
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+nltk
+
